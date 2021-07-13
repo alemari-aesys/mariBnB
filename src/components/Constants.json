@@ -1,0 +1,85 @@
+{
+    "Apartments": [
+        {
+            "category": "Metropolis",
+            "name": "Stop&go",
+            "address": "Goddamn avenue",
+            "city": "New York",
+            "image": "https://i.pinimg.com/474x/1e/7e/97/1e7e972a09477e42ab50d8ddedb8a329--new-york-apartments-architectural-digest.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet maximus diam, ut molestie sem. Praesent ligula urna, bibendum vitae placerat eu, maximus sed nulla. Cras id velit eleifend felis lacinia suscipit in id ligula. Aliquam in convallis risus. Nullam dictum rhoncus eros eget viverra",
+            "price": 50
+        },
+        {
+            "category": "Metropolis",
+            "name": "FSociety",
+            "address": "37-1 St Marks Pl",
+            "city": "New York",
+            "image": "https://i.pinimg.com/originals/8e/d3/11/8ed311f72ba2c3d3d7ae290036ae9877.jpg",
+            "description": "Curabitur pharetra sapien vel nulla accumsan, eu ultricies magna pellentesque. Mauris fermentum ipsum neque, et fringilla velit porta nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Vivamus laoreet urna nulla, eu dignissim magna tristique sed.",
+            "price": 150
+        },
+        {
+            "category": "Metropolis",
+            "name": "Tyler'sPlace",
+            "address": "Soap Street",
+            "city": "Los Angeles",
+            "image": "https://www.udr.com/globalassets/markets/los-angeles/losangeles_1900x874_3033wilshire_model_2016_b2g-ph_unit1702_liv2_jimb.jpg?h=249",
+            "description": "Vivamus dui libero, lacinia eu luctus in, cursus at tortor. Praesent ultricies non turpis sed pharetra. Proin aliquam enim eu sagittis lacinia. Maecenas eget dapibus ligula. Etiam pulvinar, tortor ac elementum tempus, risus sem ullamcorper quam, sit amet commodo eros lacus in turpis.",
+            "price": 200
+        },
+        {
+            "category": "Relax",
+            "name": "CamillBillCapill",
+            "address": "Via dei cavalli 88",
+            "city": "Pescara",
+            "image": "https://cdn.trovacasa.net/annunci/LIS/P_999999505_49807834_683120157/appartamento-in-vendita-a-pescara.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet maximus diam, ut molestie sem. Praesent ligula urna, bibendum vitae placerat eu, maximus sed nulla. Cras id velit eleifend felis lacinia suscipit in id ligula. Aliquam in convallis risus. Nullam dictum rhoncus eros eget viverra",
+            "price": 50
+        },
+        {
+            "category": "Relax",
+            "name": "NgulASort",
+            "address": "Piazza dei pigri 92",
+            "city": "Pescara",
+            "image": "https://lh3.googleusercontent.com/proxy/e8CthrnZUjndAS_UTbk-502XV_dzzSY1s6Dn9noY4Vfg1sYyYTi2A2Ls4gB8hAfYARAR6tP1vwFPNTUwtNJX3T5qHDi3XNDMXTMtmUmgRYtXrK7M1I1FmvB1cow5cXxRcQ5408t1iTybsSoVfu9QEKBgUs8Acg8_JevvllK6qlmT4lYS6g9gMaooLYMPXrjiklycIJ4",
+            "description": "Curabitur pharetra sapien vel nulla accumsan, eu ultricies magna pellentesque. Mauris fermentum ipsum neque, et fringilla velit porta nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Vivamus laoreet urna nulla, eu dignissim magna tristique sed",
+            "price": 70
+        },
+        {
+            "category": "Relax",
+            "name": "GiunglaDeSoraLella",
+            "address": "Via Ferilli 108",
+            "city": "Roma",
+            "image": "https://lh3.googleusercontent.com/proxy/UfhH6vjsONMmAYvAn9kCpfPxvws4d0Pm43AiPDNcfPcQ7M_7tWy3zD93sRdSqT0jC9EijHpwZyoX4nMv7oVnGt1Z_Z9DK0XfH1HZ6WvILGrY-YaFkfQPkabKXy3udN6uPvOg_jXS8whsW3b_pSCsuaFswXxHI2AJjp0yJIrLLKCBsFCrAsRPU7R_T_5jGl8RolZ9I5o",
+            "description": "Vivamus dui libero, lacinia eu luctus in, cursus at tortor. Praesent ultricies non turpis sed pharetra. Proin aliquam enim eu sagittis lacinia. Maecenas eget dapibus ligula. Etiam pulvinar, tortor ac elementum tempus, risus sem ullamcorper quam, sit amet commodo eros lacus in turpis.",
+            "price": 30
+        },
+        {
+            "category": "Beach",
+            "name": "Anvedi",
+            "address": "Via Moro 32",
+            "city": "London",
+            "image": "https://lh3.googleusercontent.com/proxy/ZC0y7gMQHiPZ4zGpe4NUHJbh-EwQhknTuk5NnUpmaldmjcmYr3sPqAALuydmGammavGoiQ3wggd6MiLbjMzKha8_9800HIRsB00BgZxv_9neEEIeeOTlicQgNZFJ6pyLadiZ4iHkufC1yT5SGH61prJpNQPrr5pnCoZ7pvpc10fOmFY396kkuofhw7bbhevO3t3s-O5-GdIF6A",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet maximus diam, ut molestie sem. Praesent ligula urna, bibendum vitae placerat eu, maximus sed nulla. Cras id velit eleifend felis lacinia suscipit in id ligula. Aliquam in convallis risus. Nullam dictum rhoncus eros eget viverra",
+            "price": 28
+        },
+        {
+            "category": "Beach",
+            "name": "Democracy",
+            "address": "Awesome road",
+            "city": "Miami",
+            "image": "https://news.artnet.com/app/news-upload/2016/10/Miami-Beach-EDITION.-Courtesy-Miami-Beach-EDITION.-256x256.jpg",
+            "description": "Curabitur pharetra sapien vel nulla accumsan, eu ultricies magna pellentesque. Mauris fermentum ipsum neque, et fringilla velit porta nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Vivamus laoreet urna nulla, eu dignissim magna tristique sed",
+            "price": 180
+        },
+        {
+            "category": "Beach",
+            "name": "TheVillage",
+            "address": "Africa",
+            "city": "Casablanca",
+            "image": "https://foto-origin.hrsstatic.com/foto/1/7/1/5/teaser_171585.jpg",
+            "description": "Vivamus dui libero, lacinia eu luctus in, cursus at tortor. Praesent ultricies non turpis sed pharetra. Proin aliquam enim eu sagittis lacinia. Maecenas eget dapibus ligula. Etiam pulvinar, tortor ac elementum tempus, risus sem ullamcorper quam, sit amet commodo eros lacus in turpis.",
+            "price": 10
+        }
+    ]
+}

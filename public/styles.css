@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+    font-family: Roboto;
+  }
+  
+  .Toolbar {
+    display: flex;
+    min-height: 56px;
+    align-items: center;
+    padding: 0px 10px;
+  }
+
+  .Title {
+    padding-bottom: 30px;
+  }
+
+  .Entry {
+    margin: 30px 30px 30px;
+  }
+
+  button {
+    appearance: none;
+    outline: 0;
+    background-color: white;
+    color: #50a3a2;
+    border-radius: 3px;
+    width: 50px;
+    font-size: 18px;
+  }
