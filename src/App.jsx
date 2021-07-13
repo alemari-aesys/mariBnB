@@ -12,10 +12,7 @@ import { useAuth } from "./contexts/AuthContext";
 import Signup from "./components/Signup";
 // export const context = createContext();
 
-//ID progetto su Google dev console = just-charger-307215
-//API key AIzaSyA8Xvpwd_Ux3ycmkDGIDjE31J2XlgCkZfM
-//ID Client OAuth 448898835160-o3qff60nn1rbjcvqsojud08run08243j.apps.googleusercontent.com
-//CLIENT SECRET 8AK4FzcVohFkhry2v_6eP9Mo
+
 
 function App() {
 
