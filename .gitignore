@@ -5,6 +5,7 @@
 ### react ###
 .DS_*
 *.log
+.keys
 logs
 **/*.backup.*
 **/*.back.*
