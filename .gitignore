@@ -15,7 +15,6 @@ bower_components
 
 *.sublime*
 .env.local
-.env
 psd
 thumb
 sketch
